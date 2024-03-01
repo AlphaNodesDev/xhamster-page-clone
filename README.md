@@ -19,7 +19,7 @@ Add badges from somewhere like: [shields.io](https://shields.io/)
 
 ## Authors
 
-- [@octokatherine](https://www.github.com/AlphaNodesDev)
+- [@AlphaNodesDev](https://www.github.com/AlphaNodesDev)
 
 
 ## 🛠 Skills
